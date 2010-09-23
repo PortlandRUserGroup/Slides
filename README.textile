@@ -1,0 +1,14 @@
+h2. R User Group Meeting Slides
+
+_Portland, OR_
+
+This repository is meant to keep track of slides, and related code,
+data or media, presented at Portland R User Group Meetings. 
+
+h3. Getting Started with R
+
+_Ed Borasky_
+_September 21st_
+
+Slides are on Ed's repository, at 
+<pre>http://github.com/znmeb/SUSE-Studio-Appliances/blob/master/Code-Like-A-Pirate/Documents/Getting%20Started.pdf</pre>
