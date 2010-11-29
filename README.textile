@@ -12,3 +12,23 @@ _September 21st_
 
 Slides are on Ed's repository, at 
 <pre>http://github.com/znmeb/SUSE-Studio-Appliances/blob/master/Code-Like-A-Pirate/Documents/Getting%20Started.pdf</pre>
+
+
+h3. Spatial Analysis with R
+
+_Ben Stabler_
+_October 21st_
+
+The powerpoint slides are here, and can also be found at at
+<pre>http://stablers.net/software/files/Stabler-Spatial-R.ppt</pre>
+
+
+h3. Debugging in R
+
+_Homer Strong_
+_November 18th_
+
+We walked though code available at the gist below.
+
+<pre>https://gist.github.com/706036</pre>
+
