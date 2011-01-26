@@ -32,3 +32,20 @@ We walked though code available at the gist below.
 
 <pre>https://gist.github.com/706036</pre>
 
+
+h3. R, JavaScript, Protein Folds, and Compressed Sensing: A Quartet of Awesome
+
+_Kevin Lynagh_
+_December 16th_
+
+Kevin's talk is available at his website.
+
+<pre>http://www.dirigibleflightcraft.com/prote.cs/</pre>
+
+
+h3. Making graphs with ggplot2
+
+_Brian Diggs_
+_January 20th_
+
+Brian's introduction to ggplot2 is available here, names Diggs-ggplot2.pdf.
