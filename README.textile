@@ -3,14 +3,14 @@ h2. R User Group Meeting Slides
 _Portland, OR_
 
 This repository is meant to keep track of slides, and related code,
-data or media, presented at Portland R User Group Meetings. 
+data or media, presented at Portland R User Group Meetings.
 
 h3. Getting Started with R
 
 _Ed Borasky_
 _September 21st_
 
-Slides are on Ed's repository, at 
+Slides are on Ed's repository, at
 <pre>http://github.com/znmeb/SUSE-Studio-Appliances/blob/master/Code-Like-A-Pirate/Documents/Getting%20Started.pdf</pre>
 
 
@@ -32,6 +32,12 @@ We walked though code available at the gist below.
 
 <pre>https://gist.github.com/706036</pre>
 
+h3. Reporting R Bugs
+
+_Brian Diggs_
+_November 18th_
+
+Available here, named @Diggs-Reporting R Bugs.odp@ or as a PDF @Diggs-Reporting R Bugs.pdf@
 
 h3. R, JavaScript, Protein Folds, and Compressed Sensing: A Quartet of Awesome
 
@@ -48,4 +54,4 @@ h3. Making graphs with ggplot2
 _Brian Diggs_
 _January 20th_
 
-Brian's introduction to ggplot2 is available here, names Diggs-ggplot2.pdf.
+Brian's introduction to ggplot2 is available here, named Diggs-ggplot2.pdf. Source Sweave document is Diggs-ggplot2.Rnw
