@@ -10,27 +10,21 @@ h3. Getting Started with R
 _Ed Borasky_
 _September 21st_
 
-Slides are on Ed's repository, at
-<pre>http://github.com/znmeb/SUSE-Studio-Appliances/blob/master/Code-Like-A-Pirate/Documents/Getting%20Started.pdf</pre>
-
+Slides are on Ed's repository, at "http://github.com/znmeb/SUSE-Studio-Appliances/blob/master/Code-Like-A-Pirate/Documents/Getting%20Started.pdf":http://github.com/znmeb/SUSE-Studio-Appliances/blob/master/Code-Like-A-Pirate/Documents/Getting%20Started.pdf
 
 h3. Spatial Analysis with R
 
 _Ben Stabler_
 _October 21st_
 
-The powerpoint slides are here, and can also be found at at
-<pre>http://stablers.net/software/files/Stabler-Spatial-R.ppt</pre>
-
+The powerpoint slides are here, and can also be found at at "http://stablers.net/software/files/Stabler-Spatial-R.ppt":http://stablers.net/software/files/Stabler-Spatial-R.ppt
 
 h3. Debugging in R
 
 _Homer Strong_
 _November 18th_
 
-We walked though code available at the gist below.
-
-<pre>https://gist.github.com/706036</pre>
+We walked though code available at the gist at "https://gist.github.com/706036":https://gist.github.com/706036
 
 h3. Reporting R Bugs
 
@@ -44,14 +38,11 @@ h3. R, JavaScript, Protein Folds, and Compressed Sensing: A Quartet of Awesome
 _Kevin Lynagh_
 _December 16th_
 
-Kevin's talk is available at his website.
-
-<pre>http://www.dirigibleflightcraft.com/prote.cs/</pre>
-
+Kevin's talk is available at his website. "http://www.dirigibleflightcraft.com/prote.cs/":http://www.dirigibleflightcraft.com/prote.cs/
 
 h3. Making graphs with ggplot2
 
 _Brian Diggs_
 _January 20th_
 
-Brian's introduction to ggplot2 is available here, named Diggs-ggplot2.pdf. Source Sweave document is Diggs-ggplot2.Rnw
+Brian's introduction to ggplot2 is available here, named @Diggs-ggplot2.pdf@. Source Sweave document is @Diggs-ggplot2.Rnw@.
