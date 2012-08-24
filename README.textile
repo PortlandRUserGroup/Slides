@@ -46,3 +46,12 @@ _Brian Diggs_
 _January 20th_
 
 Brian's introduction to ggplot2 is available here, named @Diggs-ggplot2.pdf@. Source Sweave document is @Diggs-ggplot2.Rnw@.
+
+h3. Creating a package in R using devtools and roxygen2
+
+_Brian Diggs_
+_August 22, 2012_
+
+The slides are availabe as @Diggs-Creating-Package.pdf@. The source knitr files
+are available as talk.Rnw at
+"https://github.com/BrianDiggs/Create-R-package":https://github.com/BrianDiggs/Create-R-package
