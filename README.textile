@@ -55,3 +55,12 @@ _August 22, 2012_
 The slides are availabe as @Diggs-Creating-Package.pdf@. The source knitr files
 are available as talk.Rnw at
 "https://github.com/BrianDiggs/Create-R-package":https://github.com/BrianDiggs/Create-R-package
+
+h3. RStudio v0.99: A Glimpse
+
+_Kevin Ushey_
+_April 15, 2015_
+
+The slides are availabe as @kevin_ushey_april_2015.html@. The source files
+are available at
+"https://github.com/kevinushey/portland-r-user-group-2015":https://github.com/kevinushey/portland-r-user-group-2015
