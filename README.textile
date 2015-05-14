@@ -67,7 +67,7 @@ are available at
 
 h3. Using the best tool for the job
 
-_Kevin Ushey_
+_Drew Lanenga_
 _May 13, 2015_
 
 The slides are availabe at
