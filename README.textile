@@ -64,3 +64,11 @@ _April 15, 2015_
 The slides are availabe as @kevin_ushey_april_2015.html@. The source files
 are available at
 "https://github.com/kevinushey/portland-r-user-group-2015":https://github.com/kevinushey/portland-r-user-group-2015
+
+h3. Using the best tool for the job
+
+_Kevin Ushey_
+_May 13, 2015_
+
+The slides are availabe at
+"http://drewlanenga.github.io/rmeetup":http://drewlanenga.github.io/rmeetup
